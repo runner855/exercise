@@ -1,6 +1,24 @@
-.two {
+.todo_header{
     text-align: center;
-    margin:3em;
+    margin:2em;
     font-weight: 700;
     font-size: 2em;
+}
+
+.two{
+    text-align: center;
+}
+
+.tasks_list{
+    margin:1em;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.notaskfound {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.4em;
+    color:red;
+    margin:2em;
 }

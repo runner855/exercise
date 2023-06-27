@@ -1,4 +1,4 @@
-ul {
+.navbar_links {
     display:flex;
     justify-content: space-evenly;
     background-color: rgb(22, 174, 212);
